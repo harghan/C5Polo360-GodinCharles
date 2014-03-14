@@ -1,0 +1,33 @@
+
+/* CSS auto_nav Menu */
+.menu{margin:22px; margin-left:50px;}
+.menu td{border-left: 1px dotted black; padding-left:10px; padding-right:20px;}
+.sousmenu{font-weight:normal; text-transform : capitalize; font-family: Times new roman, Arial; font-size:10px; text-decoration:none; }
+.titremenu{border-left: dotted 1px; font-family: Calibri,"Arial black"; text-transform : uppercase; font-weight:bold; font-size:15px;}
+.titremenu a{color: black; text-decoration:none;}
+#ptmargin{margin-bottom: 20px; margin-top: 20px;}	
+/* End of the auto_nav Menu CSS*/
+
+/* CSS of the dividing line of the header and the footer */
+.hrcolonne{ border-top: 1px dashed; clear: both;}	
+/* End of the dividing line of the header and the footer CSS */
+
+/* CSS for the slider + his background in black + the title below  */
+#backblack{background-color: #272727; height: 335px;}
+#txtban{text-align: center; font-weight: bold; font-size: 25px; margin-bottom: 80px; margin-top: 60px; }
+.diaporama{position: absolute; margin-top: 30px;}
+/* END for the slider + his background in black + the title below CSS  */
+
+/* CSS for the website body */
+.container{width: 960px; margin: 0 auto;}
+h2{color : #01A9DB;}
+/* End of the website body CSS */
+
+/* CSS for the dividing line between Newsletter et Social Connection */
+#borderfeed{border-bottom: dashed #e5e5e5 1px;}
+#borderbottom{margin-right: 40px;}
+.marginbloc{margin-bottom: 10px;}
+/* End of the dividing line between Newsletter et Social Connection CSS */
+
+
+
